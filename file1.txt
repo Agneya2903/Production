@@ -1,1 +1,2 @@
 This is simple text file made by Dev1 ahe he is putting on git hub , which will help other Dev2 to read
+There is update done by Dev2 and made Some changes So it will be updated further
